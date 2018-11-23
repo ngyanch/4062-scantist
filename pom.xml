@@ -29,12 +29,12 @@
 	    <artifactId>spring-core</artifactId>
 	    <version>4.3.4.RELEASE</version>
 	</dependency>
-  	<!-- https://mvnrepository.com/artifact/tomcat/catalina -->
+  	<!-- https://mvnrepository.com/artifact/tomcat/catalina
 	<dependency>
     	<groupId>tomcat</groupId>
     	<artifactId>catalina</artifactId>
     	<version>5.5.20</version>
-	</dependency>
+	</dependency> -->
 	<!-- https://mvnrepository.com/artifact/org.apache.activemq/activemq-core -->
 	<dependency>
     	<groupId>org.apache.activemq</groupId>
